@@ -1,0 +1,159 @@
+[2023-05-15 19:09:02,327] {processor.py:153} INFO - Started process (PID=132995) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:09:02,328] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:09:02,328] {logging_mixin.py:115} INFO - [2023-05-15 19:09:02,328] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:09:02,628] {logging_mixin.py:115} INFO - [2023-05-15 19:09:02,627] {dagbag.py:320} ERROR - Failed to import: /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+Traceback (most recent call last):
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/v/Documents/airflowalura/dags/dag_start_stop_upload.py", line 58, in <module>
+    tarefa_1 = PythonOperator(
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/utils/helpers.py", line 63, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'começa a gravação' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2023-05-15 19:09:02,629] {processor.py:653} WARNING - No viable dags retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:09:02,643] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.317 seconds
+[2023-05-15 19:09:37,724] {processor.py:153} INFO - Started process (PID=133484) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:09:37,725] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:09:37,726] {logging_mixin.py:115} INFO - [2023-05-15 19:09:37,726] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:09:38,030] {logging_mixin.py:115} INFO - [2023-05-15 19:09:38,029] {dagbag.py:320} ERROR - Failed to import: /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+Traceback (most recent call last):
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/v/Documents/airflowalura/dags/dag_start_stop_upload.py", line 58, in <module>
+    tarefa_1 = PythonOperator(
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/utils/helpers.py", line 63, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'começa a gravação' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2023-05-15 19:09:38,031] {processor.py:653} WARNING - No viable dags retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:09:38,046] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.324 seconds
+[2023-05-15 19:10:10,623] {processor.py:153} INFO - Started process (PID=133770) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:10:10,624] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:10:10,624] {logging_mixin.py:115} INFO - [2023-05-15 19:10:10,624] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:10:10,948] {logging_mixin.py:115} INFO - [2023-05-15 19:10:10,947] {dagbag.py:320} ERROR - Failed to import: /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+Traceback (most recent call last):
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/v/Documents/airflowalura/dags/dag_start_stop_upload.py", line 58, in <module>
+    tarefa_1 = PythonOperator(
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/utils/helpers.py", line 63, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'começa a gravação' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2023-05-15 19:10:10,949] {processor.py:653} WARNING - No viable dags retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:10:10,962] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.342 seconds
+[2023-05-15 19:10:45,577] {processor.py:153} INFO - Started process (PID=133916) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:10:45,578] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:10:45,578] {logging_mixin.py:115} INFO - [2023-05-15 19:10:45,578] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:10:45,888] {logging_mixin.py:115} INFO - [2023-05-15 19:10:45,887] {dagbag.py:320} ERROR - Failed to import: /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+Traceback (most recent call last):
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/v/Documents/airflowalura/dags/dag_start_stop_upload.py", line 58, in <module>
+    tarefa_1 = PythonOperator(
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/utils/helpers.py", line 63, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'começa a gravação' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2023-05-15 19:10:45,889] {processor.py:653} WARNING - No viable dags retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:10:45,902] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.329 seconds
+[2023-05-15 19:11:16,823] {processor.py:153} INFO - Started process (PID=134075) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:11:16,824] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:11:16,824] {logging_mixin.py:115} INFO - [2023-05-15 19:11:16,824] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:11:17,120] {logging_mixin.py:115} INFO - [2023-05-15 19:11:17,119] {dagbag.py:320} ERROR - Failed to import: /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+Traceback (most recent call last):
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/v/Documents/airflowalura/dags/dag_start_stop_upload.py", line 58, in <module>
+    tarefa_1 = PythonOperator(
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/v/Documents/airflowalura/venv/lib/python3.9/site-packages/airflow/utils/helpers.py", line 63, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'começa a gravação' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2023-05-15 19:11:17,120] {processor.py:653} WARNING - No viable dags retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:11:17,133] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.313 seconds
+[2023-05-15 19:14:40,267] {processor.py:153} INFO - Started process (PID=134918) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:14:40,267] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:14:40,268] {logging_mixin.py:115} INFO - [2023-05-15 19:14:40,268] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:14:40,548] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:14:40,581] {logging_mixin.py:115} INFO - [2023-05-15 19:14:40,581] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-15 19:14:40,594] {logging_mixin.py:115} INFO - [2023-05-15 19:14:40,594] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-05-15T00:00:00+00:00, run_after=2023-05-15T08:20:00+00:00
+[2023-05-15 19:14:40,617] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.352 seconds
+[2023-05-15 19:15:19,602] {processor.py:153} INFO - Started process (PID=135588) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:15:19,603] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:15:19,603] {logging_mixin.py:115} INFO - [2023-05-15 19:15:19,603] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:15:19,904] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:15:19,914] {logging_mixin.py:115} INFO - [2023-05-15 19:15:19,914] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-15 19:15:19,928] {logging_mixin.py:115} INFO - [2023-05-15 19:15:19,928] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-05-15T08:20:00+00:00, run_after=2023-05-16T08:20:00+00:00
+[2023-05-15 19:15:19,939] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.340 seconds
+[2023-05-15 19:15:45,908] {processor.py:153} INFO - Started process (PID=135863) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:15:45,908] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:15:45,908] {logging_mixin.py:115} INFO - [2023-05-15 19:15:45,908] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:15:46,207] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:15:46,240] {logging_mixin.py:115} INFO - [2023-05-15 19:15:46,240] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-15 19:15:46,253] {logging_mixin.py:115} INFO - [2023-05-15 19:15:46,253] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-05-15T08:20:00+00:00, run_after=2023-05-16T08:20:00+00:00
+[2023-05-15 19:15:46,268] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.363 seconds
+[2023-05-15 19:16:19,918] {processor.py:153} INFO - Started process (PID=136346) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:16:19,950] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:16:19,950] {logging_mixin.py:115} INFO - [2023-05-15 19:16:19,950] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:16:20,261] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:16:20,271] {logging_mixin.py:115} INFO - [2023-05-15 19:16:20,271] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-15 19:16:20,288] {logging_mixin.py:115} INFO - [2023-05-15 19:16:20,288] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-05-15T08:20:00+00:00, run_after=2023-05-16T08:20:00+00:00
+[2023-05-15 19:16:20,299] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.383 seconds
+[2023-05-15 19:16:52,771] {processor.py:153} INFO - Started process (PID=136502) to work on /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:16:52,772] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py for tasks to queue
+[2023-05-15 19:16:52,772] {logging_mixin.py:115} INFO - [2023-05-15 19:16:52,772] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:16:53,064] {processor.py:651} INFO - DAG(s) dict_keys(['dag_start_stop_upload']) retrieved from /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py
+[2023-05-15 19:16:53,117] {logging_mixin.py:115} INFO - [2023-05-15 19:16:53,117] {manager.py:508} INFO - Created Permission View: can edit on DAG:dag_start_stop_upload
+[2023-05-15 19:16:53,126] {logging_mixin.py:115} INFO - [2023-05-15 19:16:53,126] {manager.py:508} INFO - Created Permission View: can read on DAG:dag_start_stop_upload
+[2023-05-15 19:16:53,135] {logging_mixin.py:115} INFO - [2023-05-15 19:16:53,135] {manager.py:508} INFO - Created Permission View: can delete on DAG:dag_start_stop_upload
+[2023-05-15 19:16:53,136] {logging_mixin.py:115} INFO - [2023-05-15 19:16:53,136] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-15 19:16:53,143] {logging_mixin.py:115} INFO - [2023-05-15 19:16:53,143] {dag.py:2398} INFO - Creating ORM DAG for dag_start_stop_upload
+[2023-05-15 19:16:53,151] {logging_mixin.py:115} INFO - [2023-05-15 19:16:53,151] {dag.py:2927} INFO - Setting next_dagrun for dag_start_stop_upload to 2022-08-22T08:20:00+00:00, run_after=2022-08-23T08:20:00+00:00
+[2023-05-15 19:16:53,163] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/dag_start_stop_upload.py took 0.394 seconds

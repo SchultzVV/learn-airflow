@@ -1,0 +1,84 @@
+[2023-05-10 21:00:22,399] {processor.py:153} INFO - Started process (PID=92277) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:00:22,400] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:00:22,400] {logging_mixin.py:115} INFO - [2023-05-10 21:00:22,400] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:00:22,419] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:00:22,434] {logging_mixin.py:115} INFO - [2023-05-10 21:00:22,434] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:00:22,454] {logging_mixin.py:115} INFO - [2023-05-10 21:00:22,454] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-10T23:58:00+00:00, run_after=2023-05-11T00:00:00+00:00
+[2023-05-10 21:00:22,467] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.071 seconds
+[2023-05-10 21:00:57,114] {processor.py:153} INFO - Started process (PID=92398) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:00:57,115] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:00:57,115] {logging_mixin.py:115} INFO - [2023-05-10 21:00:57,115] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:00:57,134] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:00:57,149] {logging_mixin.py:115} INFO - [2023-05-10 21:00:57,149] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:00:57,169] {logging_mixin.py:115} INFO - [2023-05-10 21:00:57,169] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-10T23:58:00+00:00, run_after=2023-05-11T00:00:00+00:00
+[2023-05-10 21:00:57,182] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.072 seconds
+[2023-05-10 21:01:34,325] {processor.py:153} INFO - Started process (PID=92524) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:01:34,326] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:01:34,326] {logging_mixin.py:115} INFO - [2023-05-10 21:01:34,326] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:01:34,345] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:01:34,360] {logging_mixin.py:115} INFO - [2023-05-10 21:01:34,359] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:01:34,379] {logging_mixin.py:115} INFO - [2023-05-10 21:01:34,379] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-10T23:58:00+00:00, run_after=2023-05-11T00:00:00+00:00
+[2023-05-10 21:01:34,392] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.070 seconds
+[2023-05-10 21:02:12,381] {processor.py:153} INFO - Started process (PID=92696) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:02:12,382] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:02:12,382] {logging_mixin.py:115} INFO - [2023-05-10 21:02:12,382] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:02:12,399] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:02:12,412] {logging_mixin.py:115} INFO - [2023-05-10 21:02:12,412] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:02:12,430] {logging_mixin.py:115} INFO - [2023-05-10 21:02:12,430] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-11T00:02:00+00:00
+[2023-05-10 21:02:12,442] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.063 seconds
+[2023-05-10 21:02:47,530] {processor.py:153} INFO - Started process (PID=92929) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:02:47,531] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:02:47,531] {logging_mixin.py:115} INFO - [2023-05-10 21:02:47,531] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:02:47,549] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:02:47,563] {logging_mixin.py:115} INFO - [2023-05-10 21:02:47,563] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:02:47,582] {logging_mixin.py:115} INFO - [2023-05-10 21:02:47,582] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-11T00:02:00+00:00
+[2023-05-10 21:02:47,594] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.067 seconds
+[2023-05-10 21:03:24,082] {processor.py:153} INFO - Started process (PID=93079) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:03:24,082] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:03:24,083] {logging_mixin.py:115} INFO - [2023-05-10 21:03:24,083] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:03:24,102] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:03:24,116] {logging_mixin.py:115} INFO - [2023-05-10 21:03:24,116] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:03:24,136] {logging_mixin.py:115} INFO - [2023-05-10 21:03:24,136] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-11T00:02:00+00:00
+[2023-05-10 21:03:24,149] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.070 seconds
+[2023-05-10 21:04:02,646] {processor.py:153} INFO - Started process (PID=93210) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:04:02,646] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:04:02,647] {logging_mixin.py:115} INFO - [2023-05-10 21:04:02,647] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:04:02,666] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:04:02,681] {logging_mixin.py:115} INFO - [2023-05-10 21:04:02,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:04:02,702] {logging_mixin.py:115} INFO - [2023-05-10 21:04:02,702] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:02:00+00:00, run_after=2023-05-11T00:04:00+00:00
+[2023-05-10 21:04:02,716] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.073 seconds
+[2023-05-10 21:04:38,111] {processor.py:153} INFO - Started process (PID=93339) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:04:38,124] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:04:38,125] {logging_mixin.py:115} INFO - [2023-05-10 21:04:38,125] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:04:38,145] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:04:38,160] {logging_mixin.py:115} INFO - [2023-05-10 21:04:38,160] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:04:38,181] {logging_mixin.py:115} INFO - [2023-05-10 21:04:38,180] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:02:00+00:00, run_after=2023-05-11T00:04:00+00:00
+[2023-05-10 21:04:38,193] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.085 seconds
+[2023-05-10 21:05:16,583] {processor.py:153} INFO - Started process (PID=93517) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:05:16,583] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:05:16,584] {logging_mixin.py:115} INFO - [2023-05-10 21:05:16,584] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:05:16,603] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:05:16,618] {logging_mixin.py:115} INFO - [2023-05-10 21:05:16,618] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:05:16,638] {logging_mixin.py:115} INFO - [2023-05-10 21:05:16,638] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:02:00+00:00, run_after=2023-05-11T00:04:00+00:00
+[2023-05-10 21:05:16,651] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.071 seconds
+[2023-05-10 21:05:52,583] {processor.py:153} INFO - Started process (PID=93647) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:05:52,584] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:05:52,584] {logging_mixin.py:115} INFO - [2023-05-10 21:05:52,584] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:05:52,603] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:05:52,618] {logging_mixin.py:115} INFO - [2023-05-10 21:05:52,618] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:05:52,638] {logging_mixin.py:115} INFO - [2023-05-10 21:05:52,638] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:02:00+00:00, run_after=2023-05-11T00:04:00+00:00
+[2023-05-10 21:05:52,652] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.072 seconds
+[2023-05-10 21:06:27,508] {processor.py:153} INFO - Started process (PID=93760) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:06:27,508] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:06:27,509] {logging_mixin.py:115} INFO - [2023-05-10 21:06:27,509] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:06:27,529] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:06:27,544] {logging_mixin.py:115} INFO - [2023-05-10 21:06:27,543] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:06:27,564] {logging_mixin.py:115} INFO - [2023-05-10 21:06:27,564] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:04:00+00:00, run_after=2023-05-11T00:06:00+00:00
+[2023-05-10 21:06:27,577] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.072 seconds
+[2023-05-10 21:07:05,078] {processor.py:153} INFO - Started process (PID=93929) to work on /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:07:05,079] {processor.py:641} INFO - Processing file /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-05-10 21:07:05,080] {logging_mixin.py:115} INFO - [2023-05-10 21:07:05,080] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:07:05,099] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-05-10 21:07:05,113] {logging_mixin.py:115} INFO - [2023-05-10 21:07:05,113] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:07:05,133] {logging_mixin.py:115} INFO - [2023-05-10 21:07:05,133] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2023-05-11T00:04:00+00:00, run_after=2023-05-11T00:06:00+00:00
+[2023-05-10 21:07:05,146] {processor.py:161} INFO - Processing /home/v/Documents/iac-airflow-dev/dags/venv/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.071 seconds

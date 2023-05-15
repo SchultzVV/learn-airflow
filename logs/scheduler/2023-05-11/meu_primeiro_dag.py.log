@@ -1,0 +1,84 @@
+[2023-05-10 21:00:25,812] {processor.py:153} INFO - Started process (PID=92290) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:00:25,812] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:00:25,813] {logging_mixin.py:115} INFO - [2023-05-10 21:00:25,813] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:00:25,821] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:00:25,866] {logging_mixin.py:115} INFO - [2023-05-10 21:00:25,865] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:00:25,883] {logging_mixin.py:115} INFO - [2023-05-10 21:00:25,883] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:00:25,896] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.087 seconds
+[2023-05-10 21:01:04,586] {processor.py:153} INFO - Started process (PID=92423) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:01:04,596] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:01:04,596] {logging_mixin.py:115} INFO - [2023-05-10 21:01:04,596] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:01:04,605] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:01:04,621] {logging_mixin.py:115} INFO - [2023-05-10 21:01:04,621] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:01:04,639] {logging_mixin.py:115} INFO - [2023-05-10 21:01:04,639] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:01:04,652] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.069 seconds
+[2023-05-10 21:01:39,486] {processor.py:153} INFO - Started process (PID=92542) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:01:39,486] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:01:39,487] {logging_mixin.py:115} INFO - [2023-05-10 21:01:39,487] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:01:39,495] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:01:39,511] {logging_mixin.py:115} INFO - [2023-05-10 21:01:39,511] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:01:39,529] {logging_mixin.py:115} INFO - [2023-05-10 21:01:39,529] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:01:39,542] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.059 seconds
+[2023-05-10 21:02:21,386] {processor.py:153} INFO - Started process (PID=92757) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:02:21,396] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:02:21,397] {logging_mixin.py:115} INFO - [2023-05-10 21:02:21,397] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:02:21,405] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:02:21,421] {logging_mixin.py:115} INFO - [2023-05-10 21:02:21,421] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:02:21,440] {logging_mixin.py:115} INFO - [2023-05-10 21:02:21,440] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:02:21,454] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.071 seconds
+[2023-05-10 21:03:00,455] {processor.py:153} INFO - Started process (PID=92970) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:03:00,456] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:03:00,457] {logging_mixin.py:115} INFO - [2023-05-10 21:03:00,457] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:03:00,464] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:03:00,478] {logging_mixin.py:115} INFO - [2023-05-10 21:03:00,478] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:03:00,495] {logging_mixin.py:115} INFO - [2023-05-10 21:03:00,495] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:03:00,508] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.056 seconds
+[2023-05-10 21:03:35,194] {processor.py:153} INFO - Started process (PID=93109) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:03:35,195] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:03:35,195] {logging_mixin.py:115} INFO - [2023-05-10 21:03:35,195] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:03:35,204] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:03:35,219] {logging_mixin.py:115} INFO - [2023-05-10 21:03:35,219] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:03:35,238] {logging_mixin.py:115} INFO - [2023-05-10 21:03:35,237] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:03:35,251] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.060 seconds
+[2023-05-10 21:04:11,753] {processor.py:153} INFO - Started process (PID=93238) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:04:11,754] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:04:11,754] {logging_mixin.py:115} INFO - [2023-05-10 21:04:11,754] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:04:11,763] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:04:11,779] {logging_mixin.py:115} INFO - [2023-05-10 21:04:11,779] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:04:11,797] {logging_mixin.py:115} INFO - [2023-05-10 21:04:11,797] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:04:11,810] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.060 seconds
+[2023-05-10 21:04:49,013] {processor.py:153} INFO - Started process (PID=93423) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:04:49,014] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:04:49,015] {logging_mixin.py:115} INFO - [2023-05-10 21:04:49,015] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:04:49,023] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:04:49,039] {logging_mixin.py:115} INFO - [2023-05-10 21:04:49,039] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:04:49,057] {logging_mixin.py:115} INFO - [2023-05-10 21:04:49,057] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:04:49,071] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.060 seconds
+[2023-05-10 21:05:25,733] {processor.py:153} INFO - Started process (PID=93563) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:05:25,734] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:05:25,735] {logging_mixin.py:115} INFO - [2023-05-10 21:05:25,734] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:05:25,743] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:05:25,759] {logging_mixin.py:115} INFO - [2023-05-10 21:05:25,759] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:05:25,778] {logging_mixin.py:115} INFO - [2023-05-10 21:05:25,778] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:05:25,790] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.060 seconds
+[2023-05-10 21:06:06,549] {processor.py:153} INFO - Started process (PID=93684) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:06:06,550] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:06:06,551] {logging_mixin.py:115} INFO - [2023-05-10 21:06:06,551] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:06:06,559] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:06:06,575] {logging_mixin.py:115} INFO - [2023-05-10 21:06:06,575] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:06:06,593] {logging_mixin.py:115} INFO - [2023-05-10 21:06:06,593] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:06:06,606] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.060 seconds
+[2023-05-10 21:06:43,617] {processor.py:153} INFO - Started process (PID=93825) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:06:43,618] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:06:43,619] {logging_mixin.py:115} INFO - [2023-05-10 21:06:43,618] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:06:43,627] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:06:43,643] {logging_mixin.py:115} INFO - [2023-05-10 21:06:43,643] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:06:43,662] {logging_mixin.py:115} INFO - [2023-05-10 21:06:43,662] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:06:43,675] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.061 seconds
+[2023-05-10 21:07:20,330] {processor.py:153} INFO - Started process (PID=93983) to work on /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:07:20,331] {processor.py:641} INFO - Processing file /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2023-05-10 21:07:20,331] {logging_mixin.py:115} INFO - [2023-05-10 21:07:20,331] {dagbag.py:507} INFO - Filling up the DagBag from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:07:20,340] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py
+[2023-05-10 21:07:20,355] {logging_mixin.py:115} INFO - [2023-05-10 21:07:20,355] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-05-10 21:07:20,374] {logging_mixin.py:115} INFO - [2023-05-10 21:07:20,374] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2023-05-11T00:00:00+00:00, run_after=2023-05-12T00:00:00+00:00
+[2023-05-10 21:07:20,386] {processor.py:161} INFO - Processing /home/v/Documents/airflowalura/dags/meu_primeiro_dag.py took 0.059 seconds
